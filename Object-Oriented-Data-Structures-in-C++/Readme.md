@@ -295,7 +295,7 @@ Assign an object to another object. A copy constructor create a new object. An a
 
 In C++ an instance of a variable can be stored directly in memory, accessed by pointer, or accessed by reference.
 
-![Iamge](@Readme/variable.jpg)
+![Iamge](./Readme/variable.jpg)
 
 ##### Direct storage 
 + The type of the variable has no modifiers.
